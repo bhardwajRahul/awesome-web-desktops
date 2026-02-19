@@ -283,7 +283,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [my old computer](https://www.windows98.website) | [![open](assets/open.png) available](https://github.com/xero/windows98.website) |
 [Paul's Web Desktop](https://peaberberian.github.io) | [![open](assets/open.png) available](https://github.com/peaBerberian/peaberberian.github.io) |
 [ClaireOS](https://www.clairewang.co) | ![locked](assets/locked.png) private |
-[Lola OS](https://www.radiopapi.fm) | ![locked](assets/locked.png) private | Works only in<br>Chromium based browsers |
 [soso radio](https://www.sosoradio.co) | ![locked](assets/locked.png) private |
 [PortfolioXP](https://pauljaguin.com) | [![open](assets/open.png) available](https://github.com/UnMugViolet/portfolio) |
 [LisaGUI](https://alpha.lisagui.com) | ![locked](assets/locked.png) private |

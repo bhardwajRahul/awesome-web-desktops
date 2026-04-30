@@ -194,7 +194,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Yosub Kim](https://www.yoyosub.com) | ![locked](assets/locked.png) private |
 [louisthings.OS](https://portfolio.louisthings.com) | ![locked](assets/locked.png) private |
 [Windo 8_1](https://cseriestechhero.github.io/kiosk-setup/services/redir/basepage8_1/session) | [![open](assets/open.png) available](https://github.com/CSeriestechhero/kiosk-setup/tree/main/services/redir/) |
-[Joey de Ruiter](https://joeyderuiter.me) | [![open](assets/open.png) available](https://github.com/0xJ0EY/Portfolio-next) |
+[Joey de Ruiter](https://portfolio-next-l4uec379x-joey-de-ruiter.vercel.app) | [![open](assets/open.png) available](https://github.com/0xJ0EY/Portfolio-next) |
 [Grovy Website](https://grovy.space) | ![locked](assets/locked.png) private |
 [ProzillaOS](https://os.prozilla.dev) | [![open](assets/open.png) available](https://github.com/prozilla-os/ProzillaOS) |
 [hat.fo](https://ud2-sh-next-aaa25mk3e-hatf0-s-team.vercel.app) | ![locked](assets/locked.png) private |
@@ -265,7 +265,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Linux on the Web](https://linuxontheweb.github.io/desk/) | [![open](assets/open.png) available](https://github.com/linuxontheweb/linuxontheweb.github.io) |
 [Kenny Hui's Desktop](https://desktop.kennyhui.dev) | [![open](assets/open.png) available](https://github.com/khui0/kennyhui-desktop) |
 [H.H.Roses](https://hhroses.neocities.org) | ![locked](assets/locked.png) private |
-[Timewatcher OS](https://timewatcher.neocities.org) | ![locked](assets/locked.png) private |
 [Fusa OS](https://luca-musa.itch.io/fusa-os) | ![locked](assets/locked.png) private | You can register with any user,<br>password and email; they<br>don't need to be valid |
 [Vista Thomas Edition](https://thomasdarkson.com) | ![locked](assets/locked.png) private |
 [MEDICALMALADIES](https://medicalmaladies.neocities.org) | ![locked](assets/locked.png) private |

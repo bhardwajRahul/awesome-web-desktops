@@ -217,6 +217,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [HippoPlayer](https://hippoplayer.se/WB.html) | ![locked](assets/locked.png) private |
 [purarue OS](https://purarue.xyz) | [![open](assets/open.png) available](https://github.com/purarue/glue) |
 [Sarah's Portfolio](https://s4rah.dev) | ![locked](assets/locked.png) private |
+[Ritenv's WebOS](http://riten.io/retro-desktop/) | [![open](assets/open.png) available](https://github.com/ritenv/retro-desktop) |
 [Hawwokitty's Portfolio](https://hawwokitty.github.io/my-portfolio/) | [![open](assets/open.png) available](https://github.com/hawwokitty/my-portfolio) |
 [Ricardo98](https://ricardo-gomes.vercel.app) | [![open](assets/open.png) available](https://github.com/sleiph/Portfolio) |
 [KodeKeras](https://kodekeras.my.id) | ![locked](assets/locked.png) private |
@@ -283,6 +284,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [陈刑OS](https://chenxing-dev.github.io) | [![open](assets/open.png) available](https://github.com/chenxing-dev/chenxing-dev.github.io) |
 [MitchIvin XP](https://mitchivin.com) | ![locked](assets/locked.png) private |
 [nekOS](https://oodlecat.meowandsparkle.party/nekOS.html) | ![locked](assets/locked.png) private |
+[TerbiumonOS](https://terbiumon.top) | [![open](assets/open.png) available](https://github.com/TerbiumOS/web-v2) | You can log in with any<br>username and password |
 [Sohail Sayed](https://www.sohailsayed.com) | [![open](assets/open.png) available](https://github.com/SohailSayed/winxp-personal-website) |
 [Rafindows 95](https://rafaheras.dev) | ![locked](assets/locked.png) private |
 [corow.net](https://corow.net) | ![locked](assets/locked.png) private |

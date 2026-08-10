@@ -64,7 +64,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [l3S GR*S MOT$](https://web.archive.org/web/20260115054249/https://www.lesgrosmots.com/) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
-[Ritenv's WebOS](https://github.com/ritenv/retro-desktop) |
 [Vtron](https://github.com/royalknight56/vtron) |
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
 [Renkbench](https://github.com/renkman/Renkbench) |
@@ -77,7 +76,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [CrossWord](https://github.com/u2re-space/crossword) |
 [Timewatcher OS](https://web.archive.org/web/20250213101115/https://timewatcher.neocities.org/) |
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
-[TerbiumonOS](https://github.com/TerbiumOS/web-v2) |
 [XenOS](https://github.com/NebulaServices/XenOS) |
 [So Many Diamonds](https://web.archive.org/web/20220401074943/https://fictioningcomfort.space/so-many-diamonds/) |
 [finDOS 98](https://findos98.com/app) |

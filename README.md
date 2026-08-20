@@ -233,7 +233,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [János Kócs \| Portfolio](https://janoskocs.com) | [![open](assets/open.png) available](https://github.com/janoskocs/portfolio) | this site occasionally goes offline |
 [Wes95](https://wes.dev) | [![open](assets/open.png) available](https://github.com/WesSouza/wes.dev) |
 [Windows11-3.0](https://windowsxi.vercel.app) | [![open](assets/open.png) available](https://github.com/MishanPoudel/Windows11-3.0) | You can log in with any<br>username and password |
-[Gersigno's Portfolio](https://gersigno.github.io) | [![open](assets/open.png) available](https://github.com/Gersigno/gersigno.github.io) |
+[Gersigno's Portfolio](https://www.gersigno.dev) | [![open](assets/open.png) available](https://github.com/Gersigno/gersigno.github.io) |
 [Windows 11 UI](https://chrishtu.github.io/windows11/) | [![open](assets/open.png) available](https://github.com/chrishtu/windows11) |
 [AvdanOS](https://avdan-os.github.io/Demo/) | [![open](assets/open.png) available](https://github.com/Avdan-OS/Demo) |
 [Plexos](https://plexos.app) | [![open](assets/open.png) available](https://github.com/Pentacoro/pentacoro.github.io) |
@@ -363,6 +363,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [ElyraOS](https://elyraos.com) | [![open](assets/open.png) available](https://github.com/x-frst/elyraos) |
 [RESHAV_OS](https://personal-os-pi-neon.vercel.app) | [![open](assets/open.png) available](https://github.com/koley-dev-08/personal-os) |
 [FDE Desktop](https://frannunpal.github.io) | [![open](assets/open.png) available](https://github.com/frannunpal/frannunpal.github.io) |
+[RobbyOS](https://robbyyeager.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
